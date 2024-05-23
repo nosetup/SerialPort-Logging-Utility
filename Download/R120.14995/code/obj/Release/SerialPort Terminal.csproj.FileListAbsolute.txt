@@ -1,0 +1,21 @@
+R:\VisualStudio\SerialPort Logging Utility\bin\Release\SerialPort Logging Utility.exe.config
+R:\VisualStudio\SerialPort Logging Utility\bin\Release\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Utility\bin\Release\SerialPort Logging Utility.pdb
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Terminal.csproj.AssemblyReference.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FrmAbout.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.AboutBox.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FrmRSLKRemote.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FrmTerminal.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.Properties.Resources.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.TVRemote.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Terminal.csproj.GenerateResource.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Terminal.csproj.CoreCompileInputs.cache
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Logging Utility.exe
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\SerialPort Logging Utility.pdb
+R:\VisualStudio\SerialPort Logging Utility\bin\Release\Properties\AssemblyInfo.cs
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FormSerialLogWindow.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FormSerialAutomate.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FormSerialTestChallenge.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FormSerialSettings.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FormSerialUtilities.resources
+R:\VisualStudio\SerialPort Logging Utility\obj\Release\LogTerminal.FormSerialInfo.resources
