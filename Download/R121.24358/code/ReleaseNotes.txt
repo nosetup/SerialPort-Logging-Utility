@@ -1,0 +1,57 @@
+﻿//****************************************************************************
+//****************************************************************************
+/** START SUMMARY
+FEATURES
+Serial Messenging - Send/Receive and log bytes or ascii.
+Control RS232 RTS (pin7 output), CTS (pin8 input)
+Serial Control - Control select model Samsung / LG TV with 3.5mm jack.
+Scripting - Send message bytes in a sequence with ability to add delays or loops.
+Auto Reply - Automatically send a response based.
+
+DEBUG FEATURES
+Additional Trace output
+Additional WPF Buttons
+
+FUTURE FEATURES
+Capture Data - Used to Capture and Store In system data.
+
+END SUMMARY**/
+//****************************************************************************
+//****************************************************************************
+/** START CHANGE NOTES
+Ver 1.2.1.* {Release Notes} {NLD}
+Added Capture Data Feature
+Fixed connecting to a busy COM Port
+Cleaned up Window Management + Hide
+
+Ver 1.2.0.* {Release Notes} {NLD}
+Interface Restructuring
+Added RS232 Control RTS/CTS
+Serial Challenge and Response Testing
+
+Ver 1.1.0.* {Release Notes} {NLD}
+Adds Installer (Debug and Released Build)
+Refactored base code for debug build
+
+Ver 1.1.0.* {Known Issues} {NLD}
+Receive message bytes may have breaks and delays which causes message to display with break in log window and Auto Reply to not correctly parse the message.
+
+Ver 1.0.0.* {Release Notes} {NLD}
+Initial Release (no installer)
+
+//template
+Ver major.minor.bugs.revision/build {type} {author}
+
+END CHANGE NOTES**/
+//****************************************************************************
+//****************************************************************************
+/** START RELEASE INSTRUCTIONS
+
+1. Update revision number at AssemblyInfo.cs
+2. Select build configuration
+3. Build with Installer (Build configuration is kept seperately)
+4. Install + Verify Revision Numbers. Rename installer after verification.
+
+ END RELEASE INSTRUCTIONS**/
+//****************************************************************************
+//****************************************************************************
